@@ -32,7 +32,7 @@
     "morgan": "1.9.1",
     "passport": "0.6.0",
     "passport-local": "1.0.0",
-    "request": "2.87.0",
+    "request": "2.88.2",
     "slug": "0.9.2",
     "underscore": "1.12.1"
   },
